@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "title": "Человек-паук: Нет пути домой",
+      "desc": "Продолжение истории о Человеке-пауке.",
+      "price": "5 $",
+      "img": "https://kassa.rambler.ru/s/StaticContent/P/Img/2111/12/211112163420553.jpg",
+      "id": 1
+    },
+    {
+      "title": "Зверопой 2",
+      "desc": "Тяжело быть продюсером, когда ты коала и у тебя лапки. Еще сложнее, когда твоя верная помощница древнее печатной машинки.",
+      "price": "4$",
+      "img": "http://кино-россия.рф/media/k2/items/cache/f8f336d27957a1b2f13b2daec1d1b4b0_L.jpg",
+      "id": 2
+    },
+    {
+      "title": "Последний богатырь: Посланник тьмы",
+      "desc": "Иван наконец обрел силушку богатырскую, злой чародей Роголеб повержен, и теперь все Белогорье готовится к пиру на весь мир: Иван и Василиса собираются праздновать свадьбу, решая типичные для почти любой пары молодоженов проблемы.",
+      "price": "3 $",
+      "img": "http://кино-россия.рф/media/k2/items/cache/3bd383cdf9446912a35458166e99234d_L.jpg",
+      "id": 3
+    },
+    {
+      "title": "Матрица: Воскрешение",
+      "desc": "Победа людей над компьютерной программой, управляющей миром, оказалась иллюзией. Матрица возвращается!..",
+      "price": "3 $",
+      "img": "http://кино-россия.рф/media/k2/items/cache/55a9ec53054b140fa3784d6b9508fcf5_L.jpg",
+      "id": 4
+    },
+    {
+      "title": "Чемпион мира",
+      "desc": "Dune occasionally struggles with its unwieldy source material, but those issues are largely overshadowed by the scope and ambition of this visually thrilling adaptation",
+      "price": "5$",
+      "img": "http://кино-россия.рф/media/k2/items/cache/da3dd9e0dfc073a9278eecf902a909a6_L.jpg",
+      "id": 5
+    }
+  ]
+}
